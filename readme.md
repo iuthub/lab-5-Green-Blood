@@ -2,4 +2,4 @@
 
 - ID: U1610092
 - Name: Odilkhujaev Jamoliddinkhuja
-- Group: CSE 16-4
+- Group: 002 (16-4)
